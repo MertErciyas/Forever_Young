@@ -23,7 +23,7 @@ print(" \
   /  |  |  |  \ \n \
   |,-'--|--'-.| ")
 
-clearScreen(0.1)
+clearScreen(0.5)
 
 print(" \
        / \ \n \
@@ -35,7 +35,7 @@ print(" \
   /  |  |  |  \ \n \
   |,-'--|--'-.| ")
 
-clearScreen(0.1)
+clearScreen(0.5)
 
 print(" \
       / _ \ \n \
@@ -46,7 +46,7 @@ print(" \
   /  |  |  |  \ \n \
   |,-'--|--'-.| ")
 
-clearScreen(0.1)
+clearScreen(0.5)
 
 print(" \
      |.o '.| \n \
@@ -56,7 +56,7 @@ print(" \
   /  |  |  |  \ \n \
   |,-'--|--'-.| ")
 
-clearScreen(0.1)
+clearScreen(0.5)
 
 print(" \
      |'._.'| \n \
@@ -65,7 +65,7 @@ print(" \
   /  |  |  |  \ \n \
   |,-'--|--'-.| ")
 
-clearScreen(0.1)
+clearScreen(0.5)
 
 print(" \
      |     | \n \
@@ -73,17 +73,22 @@ print(" \
   /  |  |  |  \ \n \
   |,-'--|--'-.| ")
 
-clearScreen(0.1)
+clearScreen(0.5)
 
 print(" \
    ,'|  |  |`. \n \
   /  |  |  |  \ \n \
   |,-'--|--'-.| ")
 
-clearScreen(0.1)
+clearScreen(0.5)
 
 print(" \
   /  |  |  |  \ \n \
   |,-'--|--'-.| ")
 
-clearScreen(0.1)
+clearScreen(0.5)
+
+print(" \
+  |,-'--|--'-.| ")
+
+clearScreen(0.5)

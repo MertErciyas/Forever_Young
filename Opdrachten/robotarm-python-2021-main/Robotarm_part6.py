@@ -7,7 +7,7 @@ robotArm = RobotArm('exercise 6')
 for a in range (10):
     robotArm.moveRight()
 
-for a in range(1,9):
+for a in range(8):
     robotArm.moveLeft()
     robotArm.moveLeft()
     robotArm.grab()
